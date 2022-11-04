@@ -1,0 +1,38 @@
+h1{
+ color: aqua;   
+
+}
+
+h2{
+color: aqua;
+
+}
+
+h3{
+color: aqua;
+
+}
+
+p{
+font-style: oblique;
+color: rgb(0, 255, 255);
+background-color: green;
+}
+
+body{
+background: linear-gradient(blue,purple)
+
+}
+
+h4{
+color:rgb(255, 115, 0);
+
+}
+
+h5{
+color:yellowgreen;
+
+}
+.tamanho{
+    width: 50%;
+}
